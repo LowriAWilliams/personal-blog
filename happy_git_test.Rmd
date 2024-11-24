@@ -2,9 +2,7 @@
 title: "Happy Git Test"
 author: "LowriAWilliams"
 date: "2024-11-24"
-output: 
-  html_document: 
-    keep_md: true
+output: github_document
 ---
 
 Let's have a go, then.
